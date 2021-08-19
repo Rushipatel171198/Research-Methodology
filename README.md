@@ -34,7 +34,6 @@ The safety of data centres. High gates, 24x7 security staff, and video monitorin
 ## Visuals:
 
 
-
 ## The Answers I got from this research on various methods:
 
 - The answers I got after getting this research done, are the
