@@ -37,7 +37,7 @@ The safety of data centres. High gates, 24x7 security staff, and video monitorin
 ![Cloud Privacy Taxonomy](https://github.com/Rushipatel171198/Research-Methodology/blob/main/1.PNG)
 
 - SAML and HBE for identity management:-
-![SAML and HBE for identity management](https://github.com/Rushipatel171198/Research-Methodology/blob/main/1.PNG)
+![SAML and HBE for identity management](https://github.com/Rushipatel171198/Research-Methodology/blob/main/2.PNG)
 
 
 ## The Answers I got from this research on various methods:
