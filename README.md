@@ -1,8 +1,8 @@
-## Name of my Project
+## Name of my Project:
 
 - Effective Security Frameworks in Cloud Computing
 
-## Description of this project
+## Description of this project:
 
 - In recent times, the privacy and security of the user
 data and other various types of data is inevitable. To secure
