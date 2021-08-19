@@ -32,8 +32,13 @@ The safety of data centres. High gates, 24x7 security staff, and video monitorin
 - Best practises in the field. To protect against malicious or unknowingly dangerous acts by insiders, the provider should have implemented confidentiality and anonymity, business ethics, and code of conduct policies for all employees – including inspections where appropriate, non-disclosure arrangements, and principles of segregation of duties, need to know, and least privilege access. Only appropriate access to important systems is ensured by strict access controls, multi-factor authentication, and pervasive activity monitoring.
 
 ## Visuals:
+- Cloud Privacy Taxonomy:-
 
--![Cloud Privacy Taxonomy](https://github.com/Rushipatel171198/Research-Methodology/blob/main/1.PNG)
+![Cloud Privacy Taxonomy](https://github.com/Rushipatel171198/Research-Methodology/blob/main/1.PNG)
+
+- SAML and HBE for identity management:-
+![SAML and HBE for identity management](https://github.com/Rushipatel171198/Research-Methodology/blob/main/1.PNG)
+
 
 ## The Answers I got from this research on various methods:
 
